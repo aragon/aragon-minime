@@ -1,0 +1,21 @@
+# Dependencies
+node_modules
+
+# Artifacts
+abi
+build
+
+# Tests and coverage
+coverageEnv
+scTopics
+
+# yarn
+yarn-error.log
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+# Misc
+.DS_Store
+.cache
